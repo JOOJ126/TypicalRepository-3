@@ -1,7 +1,0 @@
-VertexLitGeneric
-{
-	"$basetexture"	"fairfield\models\props_office\vending_machine"
-	"$envmap" "env_cubemap"
-	"$envmapmask" "fairfield\models\props_office\vending_machine_ref"
-	"%keywords" fairfield
-}

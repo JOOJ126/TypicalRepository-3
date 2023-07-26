@@ -1,7 +1,0 @@
-VertexLitGeneric
-{
-$baseTexture "ankou5/l4d1m_garage/garage/l4d1_vehicle_lift"
-
-$envmap "env_cubemap"
-$envmapmask "ankou5/l4d1m_garage/garage/l4d1_vehicle_lift_REF"
-}
